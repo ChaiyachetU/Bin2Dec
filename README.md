@@ -1,6 +1,6 @@
 # Bin2Dec
 
-Check the [demo here]()
+Check the [demo here](https://bin2dec-adamblog.netlify.app/)
 
 App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
 
@@ -28,7 +28,3 @@ constraints:
 - [x] User can enter up to 8 binary digits in one input field
 - [x] User must be notified if anything other than a 0 or 1 was entered
 - [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
-
-## Bonus features
-
-- [x] User can enter a variable number of binary digits
